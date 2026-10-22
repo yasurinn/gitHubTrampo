@@ -1,1 +1,1 @@
-# exemplo-git-parte2
+Texto modificado diretamente na branch principal main.git commit -m "Alterando a primeira linha na main"
